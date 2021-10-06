@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  <title>BrainZone - Course</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
+    <link href="https://fonts.googleapis.com/css?family=Work+Sans:100,200,300,400,500,600,700,800,900" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Fredericka+the+Great" rel="stylesheet">
+
+    <link rel="stylesheet" href="astar/css/open-iconic-bootstrap.min.css">
+    <link rel="stylesheet" href="astar/css/animate.css">
+    
+    <link rel="stylesheet" href="astar/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="astar/css/owl.theme.default.min.css">
+    <link rel="stylesheet" href="astar/css/magnific-popup.css">
+
+    <link rel="stylesheet" href="astar/css/aos.css">
+
+    <link rel="stylesheet" href="astar/css/ionicons.min.css">
+    
+    <link rel="stylesheet" href="astar/css/flaticon.css">
+    <link rel="stylesheet" href="astar/css/icomoon.css">
+    <link rel="stylesheet" href="astar/css/style.css">
+  </head>
+  <body>
+	  <div class="py-2 bg-fifth">
+    	<div class="container">
+    		<div class="row no-gutters d-flex align-items-start align-items-center px-3 px-md-0">
+	    		
+		    </div>
+		  </div>
+    </div>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark ftco_navbar brzn-navbar-light" id="brzn-navbar">
+	    <div class="container d-flex align-items-center">
+	    	<a class="navbar-brand" href="#">Brain<span>Zone</span></a>
+				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#brzn-nav" aria-controls="brzn-nav" aria-expanded="false" aria-label="Toggle navigation">
+	        <span class="oi oi-menu"></span> Menu
+	      </button>
+	      <div class="collapse navbar-collapse" id="brzn-nav">
+	        <ul class="navbar-nav ml-auto">
+	        	<li class="nav-item active"><a href="{{ url('/') }}" class="nav-link pl-0">Home</a></li>
+	        	<li class="nav-item"><a href="#" class="nav-link">About</a></li>
+	        	<li class="nav-item"><a href="#" class="nav-link">Courses</a></li>
+	        	<li class="nav-item"><a href="#" class="nav-link">Subjects</a></li>
+                <li class="nav-item"><a href="#" class="nav-link">Achievement</a></li>
+                <li class="nav-item"><a href="#" class="nav-link">FAQ</a></li>
+                <li class="nav-item"><a href="#" class="nav-link">Contact</a></li>
+	            <li class="nav-item"><a href="{{ url('/admission') }}" class="nav-link">Admission</a></li>
+              <li class="nav-item"><a href="{{ url('/login') }}" class="nav-link">Login</a></li>
+
+	        </ul>
+	      </div>
+	    </div>
+	  </nav>
+    <!-- END nav -->
+  
+
+        <section class="brzn-section brzn-consult brzn-no-pt brzn-no-pb" style="background-image: url(astar/images/word-game-bg.jpg);" data-stellar-background-ratio="0.5">
+    	<div class="container">
+    		<div class="row justify-content-end">
+    			<div class="col-md-6 py-5 px-md-5 bg-primary">
+	          <div class="heading-section heading-section-white brzn-animate mb-5">
+	            <h2 class="mb-4">Admission</h2>
+	            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+	          </div>
+	          <form action="#" class="appointment-form brzn-animate">
+	    				
+            <div class="d-md-flex">
+		    				<div class="form-group">
+		    					<input type="text" class="form-control" placeholder="First Name">
+		    				</div>
+		    				<div class="form-group ml-md-4">
+		    					<input type="text" class="form-control" placeholder="Last Name">
+		    				</div>
+	    				</div>
+              <div class="d-md-flex">
+		    				<div class="form-group">
+		    					<input type="text" class="form-control" placeholder="Place of Birth">
+		    				</div>
+		    				<div class="form-group ml-md-4">
+		    					<input type="text" class="form-control" placeholder="Date of Birth">
+		    				</div>
+	    				</div>
+              <div class="d-md-flex">
+		    				<div class="form-group">
+		    					<input type="text" class="form-control" placeholder="Current Address">
+		    				</div>
+	    				</div>
+              <div class="d-md-flex">
+		    				<div class="form-group">
+		    					<input type="text" class="form-control" placeholder="Phone Number">
+		    				</div>
+		    				<div class="form-group ml-md-4">
+		    					<input type="text" class="form-control" placeholder="Email">
+		    				</div>
+	    				</div>
+              <div class="d-md-flex">
+		    				<div class="form-group">
+		    					<input type="text" class="form-control" placeholder="School Name">
+		    				</div>
+		    				<div class="form-group ml-md-4">
+		    					<input type="text" class="form-control" placeholder="Grade">
+		    				</div>
+	    				</div>
+
+              <div class="d-md-flex">
+		    				<div class="form-group">
+		    					<input type="text" class="form-control" placeholder="Parent's Name">
+		    				</div>
+	    				</div>
+              <div class="d-md-flex">
+		    				<div class="form-group">
+		    					<input type="text" class="form-control" placeholder="Parent's Phone Number">
+		    				</div>
+		    				<div class="form-group ml-md-4">
+		    					<input type="text" class="form-control" placeholder="Parent's Email">
+		    				</div>
+	    				</div>
+	    				<div class="d-md-flex">
+	    					<div class="form-group">
+		    					<div class="form-field">
+          					<div class="select-wrap">
+                      <div class="icon"><span class="ion-ios-arrow-down"></span></div>
+                      <select name="" id="" class="form-control">
+                      	<option value="">Select Your Course</option>
+                        <option value="">Art Lesson</option>
+                        <option value="">Language Lesson</option>
+                        <option value="">Music Lesson</option>
+                        <option value="">Sports</option>
+                        <option value="">Other Services</option>
+                      </select>
+                    </div>
+		              </div>
+		    				</div>
+	    					<div class="form-group ml-md-4">
+		    					<input type="text" class="form-control" placeholder="Phone">
+		    				</div>
+	    				</div>
+	    				<div class="d-md-flex">
+	    					<div class="form-group">
+		              <textarea name="" id="" cols="30" rows="2" class="form-control" placeholder="Message"></textarea>
+		            </div>
+		            <div class="form-group ml-md-4">
+		              <input type="submit" value="Register" class="btn btn-secondary py-3 px-4">
+		            </div>
+	    				</div>
+	    			</form>
+
+    			</div>
+        </div>
+    	</div>
+    </section>
+
+    <footer class="brzn-footer brzn-bg-dark brzn-section">
+      <div class="container">
+        <div class="row mb-5">
+          <div class="col-md-6 col-lg-3">
+            <div class="brzn-footer-widget mb-5">
+            	<h2 class="brzn-heading-2">Have a Questions?</h2>
+            	<div class="block-23 mb-3">
+	              <!-- <ul>
+	                <li><span class="icon"></span><span class="text">203 Fake St. Mountain View, San Francisco, California, USA</span></li>
+	                <li><a href="#"><span class="icon icon-phone"></span><span class="text">+2 392 3929 210</span></a></li>
+	                <li><a href="#"><span class="icon icon-envelope"></span><span class="text">info@yourdomain.com</span></a></li>
+	              </ul> -->
+	            </div>
+            </div>
+          </div>
+          <div class="col-md-6 col-lg-3">
+            <div class="brzn-footer-widget mb-5">
+              <h2 class="brzn-heading-2">Recent Blog</h2>
+              <div class="block-21 mb-4 d-flex">
+                <a class="blog-img mr-4" style="background-image: url(astar/images/image_1.jpg);"></a>
+                <div class="text">
+                  <h3 class="heading"><a href="#">Even the all-powerful Pointing has no control about</a></h3>
+                  <div class="meta">
+                    <div><a href="#"><span class="icon-calendar"></span> Dec 25, 2018</a></div>
+                    <div><a href="#"><span class="icon-person"></span> Admin</a></div>
+                    <div><a href="#"><span class="icon-chat"></span> 19</a></div>
+                  </div>
+                </div>
+              </div>
+              <div class="block-21 mb-5 d-flex">
+                <a class="blog-img mr-4" style="background-image: url(astar/images/image_2.jpg);"></a>
+                <div class="text">
+                  <h3 class="heading"><a href="#">Even the all-powerful Pointing has no control about</a></h3>
+                  <div class="meta">
+                    <div><a href="#"><span class="icon-calendar"></span> Dec 25, 2018</a></div>
+                    <div><a href="#"><span class="icon-person"></span> Admin</a></div>
+                    <div><a href="#"><span class="icon-chat"></span> 19</a></div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6 col-lg-3">
+            <div class="brzn-footer-widget mb-5 ml-md-4">
+              <h2 class="brzn-heading-2">Links</h2>
+              <ul class="list-unstyled">
+                <li><a href="#"><span class="ion-ios-arrow-round-forward mr-2"></span>Home</a></li>
+                <li><a href="#"><span class="ion-ios-arrow-round-forward mr-2"></span>About</a></li>
+                <li><a href="#"><span class="ion-ios-arrow-round-forward mr-2"></span>Services</a></li>
+                <li><a href="#"><span class="ion-ios-arrow-round-forward mr-2"></span>Deparments</a></li>
+                <li><a href="#"><span class="ion-ios-arrow-round-forward mr-2"></span>Contact</a></li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-md-6 col-lg-3">
+            <div class="brzn-footer-widget mb-5">
+            	<h2 class="brzn-heading-2">Subscribe Us!</h2>
+              <form action="#" class="subscribe-form">
+                <div class="form-group">
+                  <input type="text" class="form-control mb-2 text-center" placeholder="Enter email address">
+                  <input type="submit" value="Subscribe" class="form-control submit px-3">
+                </div>
+              </form>
+            </div>
+            <div class="brzn-footer-widget mb-5">
+            	<h2 class="brzn-heading-2 mb-0">Connect With Us</h2>
+            	<ul class="brzn-footer-social list-unstyled float-md-left float-lft mt-3">
+                <li class="brzn-animate"><a href="#"><span class="icon-twitter"></span></a></li>
+                <li class="brzn-animate"><a href="#"><span class="icon-facebook"></span></a></li>
+                <li class="brzn-animate"><a href="#"><span class="icon-instagram"></span></a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="footer-zone row" >
+          <div class="col-md-12 text-center">
+          </div>
+        </div>
+      </div>
+    </footer>
+    
+  
+
+  <!-- loader -->
+  <div id="brzn-loader" class="show fullscreen"><svg class="circular" width="48px" height="48px"><circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee"/><circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#F96D00"/></svg></div>
+
+
+  <script src="astar/js/jquery.min.js"></script>
+  <script src="astar/js/jquery-migrate-3.0.1.min.js"></script>
+  <script src="astar/js/popper.min.js"></script>
+  <script src="astar/js/bootstrap.min.js"></script>
+  <script src="astar/js/jquery.easing.1.3.js"></script>
+  <script src="astar/js/jquery.waypoints.min.js"></script>
+  <script src="astar/js/jquery.stellar.min.js"></script>
+  <script src="astar/js/owl.carousel.min.js"></script>
+  <script src="astar/js/jquery.magnific-popup.min.js"></script>
+  <script src="astar/js/aos.js"></script>
+  <script src="astar/js/jquery.animateNumber.min.js"></script>
+  <script src="astar/js/scrollax.min.js"></script>
+  <script src="astar/js/main.js"></script>
+    
+  </body>
+</html>
